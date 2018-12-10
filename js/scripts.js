@@ -3,7 +3,7 @@ var pointPerCorrect = 20;
 
 
 function percentage(score) {
-return "Your score is " + parseInt((score / 80) * 100) + "%";
+return "Your score is " + parseInt((score / 60) * 100) + "%";
 }
 
 $(document).ready(function(){
