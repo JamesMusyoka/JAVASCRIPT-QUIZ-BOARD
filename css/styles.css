@@ -1,0 +1,18 @@
+body{
+  background-image:url("https://previews.123rf.com/images/scandinavianstock/scandinavianstock1409/scandinavianstock140900005/31231336-javascript-concept-blue-background-with-blue-text.jpg");
+  background-size: 35%, 30%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:White;
+}
+ #questions{
+  text-align: left;
+}
+#questionsIncomplete{
+  color:black;
+}
+.submit:hover {
+box-shadow:green;
+background:greenyellow;
+color:black;
+}
