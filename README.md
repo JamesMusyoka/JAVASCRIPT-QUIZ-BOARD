@@ -1,4 +1,4 @@
-<!-- # JAVASCRIPT-QUIZ-BOARD
+# JAVASCRIPT-QUIZ-BOARD
 
 ### This application is about a JavaScript-Quiz Board, 6th December 2018.
 
@@ -15,7 +15,7 @@ This website contain questions on JavaScript and has  a lot to help programmers 
 ## Installation.
 * Install the JavScript-quiz board by cloning this repository:
 * You need a smartphone,laptop,desktop or any screen accessibleto internet.
-* Open from any linient browser. -->
+* Open from any linient browser.
 
 ## BDD
 | Behaviour  |   Input  | Output |
@@ -26,7 +26,7 @@ This website contain questions on JavaScript and has  a lot to help programmers 
 | User answers all questions correct | 20,20,20 | your score is 80% |
 | If the user does not answer a question, it is marked as wrong | 0,0,0"" | your score is 0% |
 
-<!-- ## Known Bugs
+## Known Bugs
 Many websites still in progress too help the programmers  develope more apealing websites.
 
 ## Technologies Used
@@ -36,4 +36,4 @@ Many websites still in progress too help the programmers  develope more apealing
 
 ## Support and contact details
 * email: jamesmu475@gmail.Com
-* Phone no: 0704729445 -->
+* Phone no: 0704729445
